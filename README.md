@@ -1,4 +1,4 @@
-<img align="right" src="" width="300"/>
+<img align="right" src="meme.png" width="250"/>
 
 <h1 align="center">Vinícius Fortes</h1>
 
