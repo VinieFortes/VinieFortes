@@ -23,7 +23,7 @@
 <p align="left">
     <img align="left" alt="vue" width="40px" src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png"/>&nbsp;
     <img align="left" alt="node" width="40px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>&nbsp;
-    <img align="left" alt="git" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1200px-Git-logo.svg.png"/>&nbsp;
+    <img align="left" alt="git" width="40px" src="https://hermes.digitalinnovation.one/articles/cover/effe8a64-c52a-4983-aedb-91b5e432027f.png"/>&nbsp;
 </p>
 </br>
 
