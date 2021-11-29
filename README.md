@@ -21,7 +21,7 @@
 **Frameworks and Tools**
 
 <p align="left">
-    <img align="left" alt="vue" width="40px" src="http://assets.stickpng.com/thumbs/58482acecef1014c0b5e4a1e.png"/>&nbsp;
+    <img align="left" alt="vue" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png"/>&nbsp;
     <img align="left" alt="node" width="40px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>&nbsp;
     <img align="left" alt="git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>&nbsp;
 </p>
