@@ -5,7 +5,7 @@
 
 ### :mortar_board: Em graduação
 
-- Ciência da computação - Universidade federal de Juiz de fora (UFJF)
+- Ciência da Computação - Universidade Federal de Juiz de Fora (UFJF)
 
 **Linguagens que gosto de programar**
 
