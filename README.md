@@ -13,6 +13,7 @@
   <img align="left" alt="java" width="40px" src="https://www.celsonunes.com.br/wp-content/uploads/2018/05/java-logo.png"/>&nbsp;
   <img align="left" alt="kotlin" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png"/>&nbsp;
   <img align="left" alt="js" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>&nbsp;
+  <img align="left" alt="ts" width="40px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png"/>&nbsp;
   <img align="left" alt="python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>&nbsp;
   
 </p>
