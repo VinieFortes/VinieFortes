@@ -21,7 +21,7 @@
 **Frameworks and Tools**
 
 <p align="left">
-    <img align="left" alt="vue" width="40px" src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png"/>&nbsp;
+    <img align="left" alt="vue" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184pxVue.js_Logo_2.svg.png"/>&nbsp;
     <img align="left" alt="node" width="40px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"/>&nbsp;
     <img align="left" alt="git" width="40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>&nbsp;
 </p>
