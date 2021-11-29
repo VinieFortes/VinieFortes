@@ -18,6 +18,15 @@
 </p>
 </br>
 
+**Frameworks and Tools**
+
+<p align="left">
+     <img align="left" alt="vue" width="40px" src="https://www.dotcom-monitor.com/blog/wp-content/uploads/sites/3/2020/05/Vue-logo-1.png"/>&nbsp;
+  <img align="left" alt="node" width="40px" src="https://img2.gratispng.com/20180505/gow/kisspng-node-js-javascript-software-developer-software-dep-beginning-5aee08550e81a6.6353902015255491410594.jpg"/>&nbsp;
+   <img align="left" alt="git" width="40px" src="https://hermes.digitalinnovation.one/articles/cover/effe8a64-c52a-4983-aedb-91b5e432027f.png"/>&nbsp;
+</p>
+</br>
+
 <p align="center">
 <table align='left'>
   <row>
