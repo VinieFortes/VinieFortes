@@ -1,6 +1,8 @@
 <h1 align="center">Vinícius Fortes</h1>
 
-<h4 align="center"> 
+
+<h4  align="center"> 
+  <a href="https://www.linkedin.com/in/viniciussfortes"><img align="center" alt="linkedin" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"/>&nbsp;</a>
 </h4>
 
 ### :mortar_board: Em graduação
