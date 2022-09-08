@@ -2,7 +2,8 @@
 
 
 <h4  align="center"> 
-  <a href="https://www.linkedin.com/in/viniciussfortes"><img align="center" alt="linkedin" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png"/>&nbsp;</a>
+  <a href="https://www.linkedin.com/in/viniciussfortes" style="text-decoration: none" ><img align="center" alt="linkedin" width="120px" 
+  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>&nbsp;</a>
 </h4>
 
 ### :mortar_board: Em graduação
@@ -30,15 +31,14 @@
 </p>
 </br>
 
-<p align="center">
+<p align="left">
 <table align='left'>
   <row>
     <td>
-     <!-- Card -->
-      <img align="left" width="400px" alt="Vini Github Stats" src="https://github-readme-stats.vercel.app/api?username=VinieFortes&show_icons=true&hide_border=true&count_private=true&hide=prs,contribs&theme=radical" />
+      <img align="left" width="400px" height="200px" alt="Vini Github Stats" src="https://github-readme-stats.vercel.app/api?username=VinieFortes&count_private=true&show_icons=true&theme=dracula&locale=pt-BR" />
     </td>
     <td>
-      <img align="right" alt="Vini Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinieFortes&layout=compact&theme=radical" />
+      <img align="right" alt="Vini Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinieFortes&layout=compact&theme=dracula&count_private=true" />
     </td>
   </row>
 </table>
